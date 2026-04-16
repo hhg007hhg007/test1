@@ -1,0 +1,83 @@
+cocoscreator  + nodejs  + c++   + golang
+
+nodejs------------------------------------done
+express-----------------------------------done
+socket.io----------------------------------done
+axios--------------------------------------done
+pnpm，npm------------------------------done
+chrome devtools--------------------------done
+mongodb----------------------------------done
+（webpack）------------------------------done
+WebAssembly-----------------------------done
+vue3，element plus-----------------------done
+vite-----------------------------------------done
+uni-app------------------------------------done
+react，ant design-------------------------done
+
+skynet 
+
+宝安的项目 cocos creator
+
+深圳湾的项目   cocoscreator+ nodejs + Pomelo
+
+棋牌游戏
+
+Pomelo，js游戏，国内页游 / 手游早期事实标准、分布式成熟、中文社区强，架构老、TS 支持弱、活跃度低、新项目少
+Pinus（Pomelo 升级版）：TS 重写、现代分布式、兼容 Pomelo 思想
+
+Colyseus ，ts游戏，事实标准，Web / H5 / 轻量联机游戏，Web 小游戏、H5、Cocos 圈子绝对主流、事实标准
+
+opentgx，
+oops-framework  +  TSRPC，
+QuickFramework
+
+cmake，makefile
+linux
+
+--------------------------------------------------------------------------
+
+
+
+
+mysql，postgresql
+nginx
+redis
+git， GitLab/GitHub
+---------------------------------------------------------------------------
+golang
+Nakama	，go游戏，全球中大型手游、联机竞技、独立游戏首选（2024–2026 爆发）
+gin
+go-zero
+Kratos
+GORM
+Redis 客户端（redis/go-redis
+grpc
+
+Viper（spf13/viper）
+Zap（uber-go/zap）
+validator（go-playground/validator）
+Cobra（spf13/cobra）
+cron（robfig/cron/v3）
+Golang 框架 Cherry，并且它支持 Pomelo 协议，
+elastic
+k8s
+docker，Docker Compose
+rabbitmq，rocketmq
+kafka
+etcd（分布式 KV、Raft）—— K8s 底层、微服务标配
+Consul—— 服务发现 + 健康检查
+Prometheus（采集）+ Grafana（展示）
+OpenTelemetry（标准）+ Jaeger/Zipkin
+
+--------------------------------------------------------------------------------------
+
+
+
+主力找工作------------cocos，golang
+
+
+
+
+
+
+
